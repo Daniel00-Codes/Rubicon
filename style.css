@@ -90,11 +90,6 @@ body, html {
 
 @media(max-width:568px) {
   .foot1, .foot2, .foot3, .foot4, .foot5, .foot6 {
-    background-attachment: fixed;
-  }
-
-  .head {
-    font-size: 10px;
-    font-weight: bolder;
+    background-attachment: scroll;
   }
 }
