@@ -92,4 +92,9 @@ body, html {
   .foot1, .foot2, .foot3, .foot4, .foot5, .foot6 {
     background-attachment: scroll;
   }
+
+  .head {
+    font-size: 10px;
+    font-weight: bolder;
+  }
 }
